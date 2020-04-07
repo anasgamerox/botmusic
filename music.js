@@ -298,7 +298,7 @@ client.on("message", message => {
    +[ ---------------------------- ]+
    
 
-Digital Discord             |https://discord.gg/scJDbNr
+Digital Discord             | https://discord.gg/NDmZdKZ
 
 *play             |Play a song with the given name or url
 
@@ -323,4 +323,4 @@ Digital Discord             |https://discord.gg/scJDbNr
 
 
 
-client.login("NjQzMjA5NDMyODA4ODE2NzE1.XlwLhg.iJp0mbOcP14lz0Qfb61nOlDDfaE");
+client.login("Njk0MzE4NTk1NjU1ODYwMzA0.Xozq3Q.bbLVWo9qt2MUl5XI0-7FDLnyx2k");
